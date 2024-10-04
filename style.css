@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.sort-btn {
+  background: rgb(236, 233, 233);
+  color: black;
+  padding: 5px 15px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.active{
+  color:black;
+  background-color: red;
+ 
+  font-weight: 800;
+
+}
